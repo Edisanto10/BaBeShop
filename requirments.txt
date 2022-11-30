@@ -1,9 +1,0 @@
-streamlit
-pillow
-streamlit-option-menu
-seaborn
-matplotlib
-plotly
-pandas
-joblib
-numpy
